@@ -18,3 +18,4 @@ exports('RemoveOption2', function(id)
 end)
 
 ```
+Credits To:https://github.com/jay-fivem/qb-benny
