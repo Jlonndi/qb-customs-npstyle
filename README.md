@@ -3,6 +3,7 @@ Edited Version Of qb-customs
 
 Depency
 qb-benny
+you should use this cd_drawtextui if you have it allredy put mine
 
 INSTAL
 
